@@ -35,18 +35,15 @@ The model is trained using a ***Random Forest Classifier:***
 1. **Clone the repository:**
    ```
    git clone https://github.com/Adithi13/BP_Care_Assistant.git
-
    ```
    
 2. **Navigate to the project directory:**
       ```   
       cd BP-Care-Assistant
-
       ```
 4. **Install the required libraries:**
       ```
        pip install -r requirements.txt
-
       ```
 
 ### Next Steps:
